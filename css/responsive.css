@@ -1,0 +1,954 @@
+@media (min-width: 1200px) and (max-width: 1400px) {
+    
+    
+.brand_prv_arr {
+	left: -15px;
+}
+.brand_nxt_arr {
+	right: -15px;
+}    
+  
+  
+}/*========================*/
+
+
+
+
+@media (min-width: 992px) and (max-width: 1199px) {
+ 
+.first_slider h2::before {
+	width: 127px;
+	top: 20px;
+	right: -35px;
+}
+    
+.first_slider h2::after {
+	width: 132px;
+	top: 20px;
+}    
+ 
+    
+.first_slider h1::before {
+	height: 222px;
+	top: -24px;
+}    
+    
+.first_slider h1::after {
+	height: 220px;
+	top: -23px;
+	right: -35px;
+}   
+ .first_slider p::after {
+	right: -45px;
+	width: 21px;
+} 
+
+.first_slider p::before {
+	width: 12px;
+}
+  
+ #about {
+	padding-bottom: 73px;
+}   
+    
+#gallery {
+	padding-bottom: 75px;
+}    
+    
+#testimonial {
+	padding-bottom: 75px;
+}    
+  
+#plans {
+	padding-bottom: 80px;
+}    
+    
+#schedule {
+	padding-bottom: 44px;
+}    
+    
+ .scheduke_item li {
+	width: 19.5%;
+}   
+  
+ .brand_prv_arr {
+	left: 0px;
+     z-index: 999;
+}   
+.brand_nxt_arr {
+	right: 0px;
+    z-index: 999;
+}    
+      
+.rutine span {
+	width: 35%;
+}    
+    
+
+    
+}/*========================*/
+
+
+@media (min-width: 768px) and (max-width: 991px) {
+    
+/*--menu part start--*/   
+.main_menu .navbar-brand {
+	width: 170px;
+}      
+/*--menu part end--*/    
+    
+    
+/*--banner part start--*/ 
+.slider_item {
+	padding: 220px 0 117px;
+}    
+    
+.slider_text h2 {
+	font-size: 20px;
+}    
+    
+.slider_text h1 {
+	font-size: 40px;
+} 
+    
+.slider_text a {
+	font-weight: 600;
+	font-size: 14px;
+	padding: 5px;
+}    
+ 
+.first_slider h2::before,
+.first_slider h2::after,
+.first_slider h1::before,
+.first_slider h1::after, 
+.first_slider p::before, 
+.first_slider p::after {
+	display: none;
+}
+    
+ .nxt_arr {
+	right: 0px;
+}   
+ .prv_arr {
+	left: 0px;
+}   
+    
+.slider_text {
+	text-align: center;
+	padding: 0px 50px;
+}  
+    
+/*--banner part end--*/     
+  
+    
+    
+/*--about part start--*/     
+#about {
+	padding: 65px 0px;
+}    
+    
+.about_text p {
+	margin-bottom: 25px;
+     text-align: justify;
+}   
+    
+.about_img > a {
+	width: 100%;
+}    
+/*--about part end--*/     
+    
+      
+/*--gallery part start--*/   
+#gallery {
+	padding-bottom: 64px;
+}      
+/*--gallery part end--*/    
+    
+    
+/*--team part start--*/       
+#team {
+	padding-bottom: 22px;
+}        
+/*--team part end--*/ 
+    
+    
+ /*--testimonial part ster--*/    
+ #testimonial {
+	padding-bottom: 65px;
+}   
+/*--testimonial part end--*/     
+    
+    
+ /*--plans part start--*/      
+ #plans {
+	padding-bottom: 70px;
+}  
+    
+.plan_details h4 {
+	font-size: 14PX;
+}   
+    
+.plan_price h2 {
+	font-size: 35px;
+}    
+/*--plans part end--*/     
+    
+    
+/*--counter part start--*/       
+#counter {
+	margin-bottom: 70px;
+}    
+ /*--counter part end--*/ 
+    
+      
+/*--schedule part start--*/      
+#schedule {
+	padding-bottom: 35px;
+}    
+    
+.scheduke_item li {
+	width: 19.4%;
+	height: 145px;
+	padding-top: 25px;
+}   
+    
+.scheduke_item li p {
+	font-size: 13px;
+	line-height: 17px;
+}    
+    
+ #schedule .scheduke_item li i {
+	font-size: 35px;
+}   
+/*--schedule part end--*/   
+    
+    
+/*--brand part start--*/      
+#brand {
+	padding-bottom: 70px;
+}  
+    
+.brand_nxt_arr {
+	right: -20px;
+}    
+    
+.brand_prv_arr {
+	left: -20px;
+} 
+/*--brand part end--*/      
+    
+      
+/*--footer part start--*/      
+.footer_logo {
+	padding: 19px 0px 4px 0px;
+}  
+    
+.Flickr_item li {
+	width: 23.4%;
+}    
+ 
+.Flickr_item li img{
+    width: 100%;
+}
+    
+.Flickr_item li a {
+	width: 100%;
+}   
+/*--footer part end--*/  
+    
+    
+    
+    
+}/*========================*/
+
+
+
+
+@media (min-width: 576px) and (max-width: 767px) {
+    
+/*--menu part start--*/  
+  .main_menu {
+	margin-top: 0px;
+	background: #e23e38;
+}  
+    
+ .main_menu .navbar-brand {
+	width: 180px;
+	height: 51px;
+} 
+    
+.main_menu .navbar-brand img {
+	margin-top: -4px;
+	height: 48px;
+}  
+.menu_fix {
+	top: 0px;
+}
+   
+.main_menu .navbar-toggler {
+	font-size: 25px;
+	margin-top: -2px;
+	color: #fff;
+	outline: 0;
+	border: 1px solid #fff;
+	padding: 5px 10px;
+}  
+       
+.main_menu #navbarSupportedContent {
+	background: #e23e38;
+	padding: 10px 0px;
+	text-align: center;
+	margin-top: -1px;
+}
+    
+ .main_menu .navbar-nav .nav-item .nav-link {
+	line-height: 35px;
+}  
+    
+.main_menu .navbar-nav .nav-item .nav-link::after {
+    display: none;
+}       
+/*--menu part end--*/      
+    
+ 
+    
+/*--banner part start--*/     
+.slider_item {
+	padding: 140px 30px;
+}
+    
+.slider_text h2 {
+	font-size: 20px;
+}    
+    
+.slider_text h1 {
+	font-size: 40px;
+	margin-bottom: 8px;
+}
+    
+.slider_text a {
+	font-weight: 600;
+	font-size: 14px;
+	padding: 5px 20px;
+} 
+    
+.slider_text p {
+	margin: 0px 19px;
+	margin-bottom: 20px;
+}
+ 
+.first_slider h2::before,
+.first_slider h2::after,
+.first_slider h1::before,
+.first_slider h1::after, 
+.first_slider p::before, 
+.first_slider p::after {
+	display: none;
+}
+    
+ .nxt_arr {
+	right: 0px;
+}   
+
+.prv_arr {
+	left: 0px;
+}   
+    
+.slider_text {
+	text-align: center;
+} 
+    
+ #banner .slick-dots li button {
+	width: 10px;
+	height: 10px;
+}   
+    
+ #banner .slick-dots {
+	bottom: 15px;
+} 
+    
+#banner .slick-dots li.slick-active button {
+	width: 15px;
+	height: 15px;
+}       
+/*--banner part end--*/    
+  
+    
+    
+/*--about part start--*/    
+#about {
+	padding: 55px 0px;
+}  
+    
+.about_text p {
+	margin-bottom: 25px;
+	color: #848484;
+}  
+    
+/*--about part end--*/   
+    
+    
+    
+/*--gallery part start--*/  
+#gallery {
+	padding-bottom: 54px;
+}
+    
+.gal_mar{
+        margin-bottom: 30px;
+    }   
+ .gallery_item a {
+	width: 100%;
+} 
+    
+/*--gallery part end--*/     
+    
+  
+    
+/*--team part end--*/    
+#team {
+	padding-bottom: 10px;
+}
+    
+.tean_text p {
+	opacity: 1;
+} 
+    
+.tean_text::after {
+	border-left: 1px solid rgba(221, 221, 221,1);
+	border-right: 1px solid rgba(221, 221, 221,1);
+	border-bottom: 1px solid rgba(221, 221, 221,1);
+} 
+    
+.team_menber:hover {
+	transform: translateY(0px);
+}
+    
+.team_menber {
+	margin-top: 0px;
+	margin-bottom: 45px;
+}
+
+/*--team part end--*/      
+  
+    
+    
+/*--testimonial part start--*/      
+#testimonial {
+	padding-bottom: 53px;
+}
+    
+#testimonial .slick-dots li button {
+	width: 10px;
+	height: 10px;
+} 
+    
+#testimonial .slick-dots li.slick-active button {
+	width: 15px;
+	height: 15px;
+}    
+    
+    
+/*--testimonial part end--*/      
+    
+    
+    
+/*--plans part start--*/      
+ #plans {
+	padding-bottom: 30px;
+}   
+    
+.plan_details {
+	margin-bottom: 30px;
+}  
+    
+.plan_details h4 {
+	font-size: 14px;
+}
+    
+ .plan_price h2 {
+	font-size: 30px;
+}  
+    
+.plan_details a {
+	font-size: 14px;
+}  
+    
+/*--plans part end--*/     
+    
+    
+  
+/*--counter part end--*/      
+#counter {
+	margin-bottom: 60px;
+}
+    
+.counter_overlay {
+	padding: 35px 0px;
+}
+    
+.counter_area {
+	border: 1px solid #E23E38;
+	padding-bottom: 10px;
+	margin: 14px 0px;
+	padding-top: 5px;
+}   
+    
+.counter_area span {
+	font-size: 20px;
+}
+    
+ .counter_area p {
+	font-size: 12px;
+}
+    
+/*--counter part end--*/         
+    
+    
+    
+/*--schedule part start--*/         
+#schedule {
+	padding-bottom: 17px;
+}   
+    
+#schedule .scheduke_item li {
+	width: 49.1%;
+	padding: 20px 10px;
+	font-size: 13px;
+}
+    
+#schedule .colorful-tab-menu-item a {
+	font-size: 13px;
+	line-height: 35px;
+}
+    
+ .scheduke_item li:nth-child(2), .scheduke_item li:nth-child(4), 
+ .scheduke_item li:nth-child(6), .scheduke_item li:nth-child(8), 
+ .scheduke_item li:nth-child(10) {
+	margin-right: 0px;
+} 
+    
+    .scheduke_item li:nth-child(5){
+        margin-right: 5px;
+    }   
+    
+ #schedule .scheduke_item li i {
+	font-size: 35px;
+} 
+    
+#schedule .scheduke_item li p {
+	line-height: 20px;
+	margin: 5px 0px;
+}    
+    
+    
+.colorful-tab-menu {
+	height: 35px;
+}    
+ 
+/*--schedule part end--*/     
+
+    
+    
+/*--brand part start--*/    
+#brand {
+	padding-bottom: 50px;
+}   
+
+/*--brand part end--*/      
+    
+    
+    
+/*--footer part start--*/     
+.footer_logo {
+	padding: 15px 0px 0 0px;
+}
+    
+    
+.Flickr_item li:nth-child(4),   
+.Flickr_item li:nth-child(8),   
+.Flickr_item li:nth-child(12) {
+        margin-right: 0;
+}  
+
+.Flickr_item li {
+	width: 24.26%;
+}   
+
+.Flickr_item li a{
+        width: 100%;
+    }    
+    
+ .footer_details {
+	margin-top: 20px;
+}   
+
+.twiter_text:last-child {
+	margin-bottom: 0;
+}
+    
+.social_heading {
+	margin-top: 25px;
+} 
+    
+.footer_border {
+	margin-top: 25px;
+}    
+   
+/*--footer part end--*/      
+    
+  
+    
+    
+    
+} /*========================*/
+
+
+
+@media(max-width: 575px) {
+    
+ /*--menu part start--*/  
+  .main_menu {
+	margin-top: 0px;
+	background: #e23e38;
+}  
+    
+ .main_menu .navbar-brand {
+	width: 180px;
+	height: 51px;
+} 
+    
+.main_menu .navbar-brand img {
+	margin-top: -4px;
+	height: 48px;
+}  
+.menu_fix {
+	top: 0px;
+}
+   
+.main_menu .navbar-toggler {
+	font-size: 20px;
+	color: #fff;
+	outline: 0;
+	margin-right: 10px;
+	border: 1px solid #fff;
+	padding: 3px 7px;
+}  
+       
+.main_menu #navbarSupportedContent {
+	background: #e23e38;
+	padding: 10px 0px;
+	text-align: center;
+	margin-top: -1px;
+}
+    
+ .main_menu .navbar-nav .nav-item .nav-link {
+	line-height: 35px;
+	width: 100%;
+}  
+    
+.main_menu .navbar-nav .nav-item .nav-link::after {
+    display: none;
+}       
+/*--menu part end--*/      
+    
+ 
+    
+/*--banner part start--*/     
+.slider_item {
+	padding: 130px 0 80px;
+}
+    
+.slider_text h2 {
+	font-size: 20px;
+}    
+    
+.slider_text h1 {
+	font-size: 40px;
+	margin-bottom: 8px;
+}
+    
+.slider_text a {
+	font-weight: 600;
+	font-size: 14px;
+	padding: 5px 20px;
+} 
+    
+.slider_text p {
+	margin: 0px 19px;
+	margin-bottom: 20px;
+}
+ 
+.first_slider h2::before,
+.first_slider h2::after,
+.first_slider h1::before,
+.first_slider h1::after, 
+.first_slider p::before, 
+.first_slider p::after {
+	display: none;
+}
+    
+ .nxt_arr {
+	right: 0px;
+}   
+
+.prv_arr {
+	left: 0px;
+}   
+    
+.slider_text {
+	text-align: center;
+} 
+    
+ #banner .slick-dots li button {
+	width: 10px;
+	height: 10px;
+}   
+    
+ #banner .slick-dots {
+	bottom: 15px;
+} 
+    
+#banner .slick-dots li.slick-active button {
+	width: 15px;
+	height: 15px;
+}      
+/*--banner part end--*/    
+  
+    
+    
+/*--about part start--*/    
+#about {
+	padding: 45px 0px;
+}   
+    
+.about_text p {
+	margin-bottom: 25px;
+	color: #848484;
+}    
+/*--about part end--*/   
+    
+    
+    
+/*--gallery part start--*/  
+#gallery {
+	padding-bottom: 44px;
+}
+    
+.gal_mar{
+        margin-bottom: 30px;
+    }   
+ .gallery_item a {
+	width: 100%;
+}    
+/*--gallery part end--*/     
+    
+  
+    
+/*--team part end--*/    
+ #team {
+	padding-bottom: 0px;
+}
+    
+.tean_text p {
+	opacity: 1;
+} 
+    
+.tean_text::after {
+	border-left: 1px solid rgba(221, 221, 221,1);
+	border-right: 1px solid rgba(221, 221, 221,1);
+	border-bottom: 1px solid rgba(221, 221, 221,1);
+} 
+    
+.team_menber:hover {
+	transform: translateY(0px);
+}
+    
+.team_menber {
+	margin-top: 0px;
+	margin-bottom: 45px;
+}
+/*--team part end--*/      
+  
+    
+    
+/*--testimonial part start--*/      
+#testimonial {
+	padding-bottom: 43px;
+}
+    
+#testimonial .slick-dots li button {
+	width: 10px;
+	height: 10px;
+} 
+    
+#testimonial .slick-dots li.slick-active button {
+	width: 15px;
+	height: 15px;
+}       
+/*--testimonial part end--*/      
+    
+    
+    
+/*--plans part start--*/      
+ #plans {
+	padding-bottom: 20px;
+}   
+    
+.plan_details {
+	margin-bottom: 30px;
+}  
+    
+.plan_details h4 {
+	font-size: 14px;
+}
+    
+ .plan_price h2 {
+	font-size: 30px;
+}  
+    
+.plan_details a {
+	font-size: 14px;
+}    
+/*--plans part end--*/     
+    
+    
+  
+/*--counter part end--*/      
+#counter {
+	margin-bottom: 50px;
+}
+    
+.counter_overlay {
+	padding: 35px 0px;
+}
+    
+.counter_area {
+	border: 1px solid #E23E38;
+	padding-bottom: 10px;
+	margin: 14px 0px;
+	padding-top: 5px;
+}   
+    
+.counter_area span {
+	font-size: 20px;
+}
+    
+ .counter_area p {
+	font-size: 12px;
+}
+    
+/*--counter part end--*/         
+    
+    
+    
+/*--schedule part start--*/         
+#schedule {
+	padding-bottom: 17px;
+}   
+    
+#schedule .scheduke_item li {
+	width: 49.1%;
+	padding: 20px 10px;
+	font-size: 13px;
+}
+    
+#schedule .colorful-tab-menu-item a {
+	font-size: 13px;
+	line-height: 40px;
+}
+    
+ .scheduke_item li:nth-child(2), .scheduke_item li:nth-child(4), 
+ .scheduke_item li:nth-child(6), .scheduke_item li:nth-child(8), 
+ .scheduke_item li:nth-child(10) {
+	margin-right: 0px;
+} 
+    
+.scheduke_item li:nth-child(5){
+        margin-right: 5px;
+    }   
+    
+ #schedule .scheduke_item li i {
+	font-size: 35px;
+} 
+    
+#schedule .scheduke_item li p {
+	line-height: 20px;
+	margin: 5px 0px;
+}    
+       
+.colorful-tab-menu {
+	height: 35px;
+} 
+    
+ .colorful-tab-menu-item {
+	width: 33.33%;
+	background: #f1f1f1;
+	border-bottom: 1px solid #E23E38;
+}   
+ 
+.colorful-tab-container {
+	margin-top: 77px;
+}    
+/*--schedule part end--*/     
+
+    
+    
+/*--brand part start--*/    
+#brand {
+	padding-bottom: 50px;
+}   
+/*--brand part end--*/      
+    
+    
+    
+/*--footer part start--*/     
+.footer_logo {
+	padding: 15px 0px 0 0px;
+}
+       
+.Flickr_item li:nth-child(4),   
+.Flickr_item li:nth-child(8),   
+.Flickr_item li:nth-child(12) {
+        margin-right: 0;
+}  
+   
+.Flickr_item li {
+	width: 23.7%;
+}    
+
+.Flickr_item li a{
+        width: 100%;
+    }    
+    
+ .footer_details {
+	margin-top: 20px;
+}   
+
+.twiter_text:last-child {
+	margin-bottom: 0;
+}
+    
+.social_heading {
+	margin-top: 25px;
+} 
+    
+.footer_border {
+	margin-top: 25px;
+}     
+/*--footer part end--*/      
+    
+ 
+} /*==============================*/
+
+
+@media (min-width: 480px) and (max-width: 575px) {
+    
+.Flickr_item li {
+    width: 24.1%;
+}
+        
+        
+}
+
+
